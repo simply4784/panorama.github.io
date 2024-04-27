@@ -15,7 +15,7 @@ export default defineConfig({
   },
   build:
   {
-    outDir: './docs',
+    outDir: './dist',
     emptyOutDir: true,
     sourcemap: false,
     assetsInlineLimit: 0,
